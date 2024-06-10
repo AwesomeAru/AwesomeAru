@@ -9,4 +9,4 @@ I am a 3rd year undergrad studying Electronics and Communication Engineering at 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy reading novels, gardening and sleeping.
 
-![My_Octocat](octocat-1716876813576.png)
+![My_Octocat](octocat-1716876813576.png "width=300px")
