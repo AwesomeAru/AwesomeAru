@@ -7,4 +7,6 @@ I am a 1st year Master of Technology student studying Electronics and Communicat
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy reading novels, gardening and sleeping.
 
-![My_Octocat](octocat-1716876813576.png "width=50px") 
+<img src="images/octocat-1716876813576.png" width="50%" alt="Alt text" />
+
+
